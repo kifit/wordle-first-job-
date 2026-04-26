@@ -1,2 +1,1 @@
-# wordle-first-job-
-This is my first time writing a program. I'm just learning Python.
+The script.py works only on the web version. The Python version, which runs as a mini-app on a PC, can be found in script1.py.
